@@ -6,9 +6,9 @@ export const homeObjZero = {
   headline: 'Lunde Water',
   description:
     'Our business specializes in delivering state certified potable water to over a thousand customers in a safe, timely and professional manner. We understand that many people prefer the rural lifestyle and rely on hauled water so we do our best to help them continue this unique way of life. These bulk water deliveries are 4,000 gallons per load and are usually for water tanks and pools.',
-  buttonLabel: 'Learn More',
-  imgStart: 'start',
-  img: 'images/svg-2.svg',
+  buttonLabel: 'Get Started',
+  imgStart: '',
+  img: 'images/wave.svg',
   alt: 'Credit Card'
 };
 
@@ -21,7 +21,7 @@ export const homeObjOne = {
   description:
     'Get access to our easy payment process. Just set it and forget it.',
   buttonLabel: 'Get Started',
-  imgStart: '',
+  imgStart: 'start',
   img: 'images/svg-1.svg',
   alt: 'Credit Card'
 };
@@ -35,7 +35,7 @@ export const homeObjTwo = {
   description:
     'Schedule your delivery with a simple press of a button.',
   buttonLabel: 'Learn More',
-  imgStart: 'start',
+  imgStart: '',
   img: 'images/svg-7.svg',
   alt: 'Vault'
 };

@@ -18,7 +18,7 @@ function HeroSection({
   return (
     <>
       <div
-        style={lightBg ? {backgroundSize: 'cover', backgroundImage:"url('images/wave (bg).svg')"}: {backgroundSize: 'cover', backgroundImage:"url('images/wave.svg')"}}
+        // style={lightBg ? {backgroundSize: 'cover', backgroundImage:"url('images/wave (bg).svg')"}: {backgroundSize: 'cover', backgroundImage:"url('images/wave.svg')"}}
         className={lightBg ? 'home__hero-section' : 'home__hero-section darkBg'}
       >
         <div className='container'>
