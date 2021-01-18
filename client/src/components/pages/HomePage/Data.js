@@ -19,7 +19,7 @@ export const homeObjOne = {
   topLine: 'Exclusive Access',
   headline: 'Easy Payment Plans',
   description:
-    'Get access to our easy payment process. Just set it and forget it.',
+    'Get access to our easy payment process. Just set it and forget it. It\'s that easy',
   buttonLabel: 'Get Started',
   imgStart: '',
   img: 'images/svg-1.svg',
@@ -33,8 +33,8 @@ export const homeObjTwo = {
   topLine: '100% SECURE',
   headline: 'Schedule your delivery with a simple press of a button.',
   description:
-    'Schedule your delivery with a simple press of a button.',
-  buttonLabel: 'Learn More',
+    'Click to Schedule a Delivery and pick a date and time that best suites you. Or call customer service at (555) 555-5555 and speak to our customer service represetative',
+  buttonLabel: 'Schedule Delivery',
   imgStart: 'start',
   img: 'images/svg-7.svg',
   alt: 'Vault'
