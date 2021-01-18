@@ -3,7 +3,7 @@ export const homeObjZero = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Exclusive Access',
-  headline: 'Lunde Water',
+  headline: 'Lunde Water Inc.',
   description:
     'Our business specializes in delivering state certified potable water to over a thousand customers in a safe, timely and professional manner. We understand that many people prefer the rural lifestyle and rely on hauled water so we do our best to help them continue this unique way of life. These bulk water deliveries are 4,000 gallons per load and are usually for water tanks and pools.',
   buttonLabel: 'Learn More',
