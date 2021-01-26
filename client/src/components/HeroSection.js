@@ -13,7 +13,8 @@ function HeroSection({
   buttonLabel,
   img,
   alt,
-  imgStart
+  imgStart,
+  onClick
 }) {
   return (
     <>
@@ -44,11 +45,11 @@ function HeroSection({
                 >
                   {description}
                 </p>
-                <Link to='/sign-up'>
-                  <Button buttonSize='btn--wide' buttonColor='green'>
+                {/* <Link to='/sign-up'> */}
+                  <Button buttonSize='btn--wide' buttonColor='green' onClick={onClick}>
                     {buttonLabel}
                   </Button>
-                </Link>
+                {/* </Link> */}
               </div>
             </div>
             <div className='col'>
